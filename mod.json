@@ -1,0 +1,9 @@
+{
+    "Name": "AdjustedWeightClasses",
+    "Enabled": true,
+
+    "Version": "0.1.0",
+    "Description": "Pushes some mechs down a weight class to increase their initiative and hence usefulness",
+    "Author": "Clinton Mead",
+    "Contact": "clintonmead@gmail.com"
+}
